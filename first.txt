@@ -1,1 +1,1 @@
-First Text File with bar line.
+First Text File with foo line.
